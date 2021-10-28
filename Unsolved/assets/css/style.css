@@ -31,7 +31,11 @@ h2 {
   font-weight: bolder;
 }
 
-/* TODO: Label selector type */
+/* ID selector - only use this once! */
 #contact-section {
-  background-color: #f0ead6;
+  background-color: lime;
+}
+
+#contact-section {
+  background-color:teal;
 }
