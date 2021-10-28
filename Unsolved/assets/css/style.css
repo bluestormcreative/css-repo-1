@@ -3,7 +3,7 @@
     font-family: Arial, "Lucida Sans Unicode", "Lucida Grande", sans-serif;
   }
 
-/* TODO: Label selector type */
+/* Element or tag selector */
 body {
   background-color: lemonchiffon;
 }
@@ -20,6 +20,10 @@ footer {
 figure {
   width: 200px;
   background-color: #f0ead6;
+}
+
+h2 {
+  font-size: 40px;
 }
 
 /* TODO: Label selector type */
